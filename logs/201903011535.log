@@ -1,0 +1,29 @@
+2019-03-01 15:35:22,284 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 15:35:22,285 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 15:35:28,282 - BrowserEngine - INFO - 打开浏览器
+2019-03-01 15:35:35,316 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 15:35:36,549 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 15:35:36,560 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-01 15:35:36,724 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>找到页面元素:('id', 'ls_username')
+2019-03-01 15:35:37,365 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>找到页面元素:('id', 'ls_password')
+2019-03-01 15:35:37,905 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-03-01 15:35:38,268 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>找到页面元素:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 15:36:00,560 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:00,562 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('id', 'subject')元素
+2019-03-01 15:36:01,046 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:12,050 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:12,051 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('id', 'fastpostmessage')元素
+2019-03-01 15:36:12,543 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:23,743 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:23,744 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('css selector', '.ptm button')元素
+2019-03-01 15:36:24,206 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:35,312 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:36:35,313 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('id', 'fastpostmessage')元素
+2019-03-01 15:36:35,790 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:37:01,856 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:37:01,857 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('id', 'fastpostsubmit')元素
+2019-03-01 15:37:02,342 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:37:13,569 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:37:13,570 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x0000020591FA3240>页面未能找到('id', 'fastpostsubmit')元素
+2019-03-01 15:37:14,078 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-03-01 15:37:14,079 - BasePage - INFO - 回复成功

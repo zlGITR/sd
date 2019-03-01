@@ -1,0 +1,14 @@
+2019-03-01 08:53:49,068 - BrowserEngine - INFO - you had select Chrome browser.
+2019-03-01 08:53:49,070 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-03-01 08:53:57,570 - BrowserEngine - INFO - 打开浏览器
+2019-03-01 08:54:03,118 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-03-01 08:54:04,324 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 08:54:04,331 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-01 08:54:04,499 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('id', 'ls_username')
+2019-03-01 08:54:05,215 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('id', 'ls_password')
+2019-03-01 08:54:05,563 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-03-01 08:54:09,122 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-03-01 08:54:12,864 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('id', 'subject')
+2019-03-01 08:54:13,409 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('id', 'fastpostmessage')
+2019-03-01 08:54:13,918 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('css selector', '.ptm button')
+2019-03-01 08:54:17,328 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001D166963240>找到页面元素:('id', 'fastpostmessage')

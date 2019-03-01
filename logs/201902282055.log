@@ -1,0 +1,106 @@
+2019-02-28 20:55:54,956 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 20:55:54,957 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 20:56:01,914 - BrowserEngine - INFO - 打开浏览器
+2019-02-28 20:56:05,566 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 20:56:06,731 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 20:56:06,740 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 20:56:06,866 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'ls_username')
+2019-02-28 20:56:07,429 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'ls_password')
+2019-02-28 20:56:07,741 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-02-28 20:56:09,786 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 20:56:11,313 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'subject')
+2019-02-28 20:56:11,845 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'fastpostmessage')
+2019-02-28 20:56:12,397 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('css selector', '.ptm button')
+2019-02-28 20:56:17,252 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'fastpostmessage')
+2019-02-28 20:56:33,543 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'fastpostsubmit')
+2019-02-28 20:56:35,280 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>找到页面元素:('id', 'fastpostsubmit')
+2019-02-28 20:56:35,400 - BasePage - INFO - 回复成功
+2019-02-28 20:56:46,419 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-02-28 20:56:46,419 - BasePage - ERROR - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768E4E0>页面未能找到('css selector', '#um > p:nth-child(2) > a:nth-child(18)')元素
+2019-02-28 20:56:46,845 - BasePage - INFO - 有截屏并且保存的路径是/screenshots/
+2019-02-28 20:56:46,845 - BrowserEngine - INFO - New,Close and quit the browser
+2019-02-28 20:56:49,595 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 20:56:49,596 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 20:56:53,393 - BrowserEngine - INFO - 打开浏览器
+2019-02-28 20:56:55,647 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 20:56:56,835 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 20:56:56,844 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 20:56:56,959 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'ls_username')
+2019-02-28 20:56:57,452 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'ls_password')
+2019-02-28 20:56:57,802 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-02-28 20:56:57,979 - BasePage - INFO - 登陆成功
+2019-02-28 20:57:00,089 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 20:57:01,745 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('name', 'moderate[]')
+2019-02-28 20:57:02,234 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '#mdly > p:nth-child(6) > strong:nth-child(1) > a')
+2019-02-28 20:57:05,022 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'modsubmit')
+2019-02-28 20:57:07,455 - BasePage - INFO - 删除帖子成功
+2019-02-28 20:57:07,754 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-02-28 20:57:09,942 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('name', 'admin_password')
+2019-02-28 20:57:10,229 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '#loginform > p.loginnofloat > input')
+2019-02-28 20:57:36,866 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'header_forum')
+2019-02-28 20:57:37,944 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '.lastboard a')
+2019-02-28 20:57:38,763 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('name', 'newforum[1][]')
+2019-02-28 20:57:39,046 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('name', 'newforum[1][]')
+2019-02-28 20:57:39,337 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'submit_editsubmit')
+2019-02-28 20:57:40,167 - BasePage - INFO - 运行成功
+2019-02-28 20:57:40,520 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('xpath', '//*[@id="frameuinfo"]/p[1]/a')
+2019-02-28 20:57:42,594 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '#um > p:nth-child(2) > a:nth-child(18)')
+2019-02-28 20:57:45,904 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'ls_username')
+2019-02-28 20:57:46,271 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'ls_password')
+2019-02-28 20:57:46,565 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-02-28 20:57:48,432 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '#category_1 > table > tbody > tr:nth-last-child(2) > td:nth-child(2) > h2 > a')
+2019-02-28 20:57:51,406 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'subject')
+2019-02-28 20:57:53,811 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'fastpostmessage')
+2019-02-28 20:57:57,745 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('css selector', '.ptm button')
+2019-02-28 20:57:59,797 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'fastpostmessage')
+2019-02-28 20:58:03,895 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'fastpostsubmit')
+2019-02-28 20:58:04,632 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76ADC18>找到页面元素:('id', 'fastpostsubmit')
+2019-02-28 20:58:04,717 - BasePage - INFO - 发布成功
+2019-02-28 20:58:04,718 - BrowserEngine - INFO - New,Close and quit the browser
+2019-02-28 20:58:07,358 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 20:58:07,360 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 20:58:11,894 - BrowserEngine - INFO - 打开浏览器
+2019-02-28 20:58:14,732 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 20:58:15,891 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 20:58:15,898 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 20:58:16,004 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('id', 'ls_username')
+2019-02-28 20:58:16,437 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('id', 'ls_password')
+2019-02-28 20:58:16,734 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-02-28 20:58:16,906 - BasePage - INFO - 登陆成功
+2019-02-28 20:58:18,643 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('id', 'scbar_txt')
+2019-02-28 20:58:19,014 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('id', 'scbar_btn')
+2019-02-28 20:58:20,559 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('xpath', '//*[@id="44"]/h3/a/strong/font')
+2019-02-28 20:58:22,747 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('id', 'thread_subject')
+2019-02-28 20:58:22,970 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B768EF60>找到页面元素:('css selector', '#um > p:nth-child(2) > a:nth-child(18)')
+2019-02-28 20:58:27,664 - BrowserEngine - INFO - New,Close and quit the browser
+2019-02-28 20:58:30,251 - BrowserEngine - INFO - you had select Chrome browser.
+2019-02-28 20:58:30,252 - BrowserEngine - INFO - the test server url is: http://127.0.0.1/forum.php
+2019-02-28 20:58:34,877 - BrowserEngine - INFO - 打开浏览器
+2019-02-28 20:58:38,011 - BrowserEngine - INFO - Open url: http://127.0.0.1/forum.php
+2019-02-28 20:58:39,205 - BrowserEngine - INFO - Maximize the current window.
+2019-02-28 20:58:39,211 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-02-28 20:58:39,319 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('id', 'ls_username')
+2019-02-28 20:58:39,759 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('id', 'ls_password')
+2019-02-28 20:58:40,058 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('xpath', '//*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em')
+2019-02-28 20:58:40,228 - BasePage - INFO - 登陆成功
+2019-02-28 20:58:40,326 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('xpath', '//*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a')
+2019-02-28 20:58:42,954 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('id', 'newspecial')
+2019-02-28 20:58:44,680 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#editorbox > ul > li:nth-child(2) > a')
+2019-02-28 20:58:46,409 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('id', 'subject')
+2019-02-28 20:58:46,867 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-28 20:58:47,178 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-28 20:58:47,436 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-28 20:58:47,758 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', 'body')
+2019-02-28 20:58:48,125 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('name', 'topicsubmit')
+2019-02-28 20:58:48,547 - BasePage - INFO - 投票系列操作成功
+2019-02-28 20:58:51,326 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#poll > div.pcht > table > tbody>tr>td:nth-child(2)')
+2019-02-28 20:58:51,737 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '#poll > div.pcht > table > tbody>tr>td:last-of-type')
+2019-02-28 20:58:51,859 - BasePage - INFO - <Pageobjects.Discuzbody.HomePage object at 0x000001A2B76D4CC0>找到页面元素:('css selector', '.ts>span')
+2019-02-28 20:58:51,942 - BasePage - INFO - 投票主题北京，你好
+2019-02-28 20:58:52,077 - BasePage - INFO - 选项1.  赞
+2019-02-28 20:58:52,338 - BasePage - INFO - 结果0.00% (0)
+2019-02-28 20:58:52,472 - BasePage - INFO - 选项2.  中
+2019-02-28 20:58:52,781 - BasePage - INFO - 结果0.00% (0)
+2019-02-28 20:58:52,965 - BasePage - INFO - 选项3.  差
+2019-02-28 20:58:53,250 - BasePage - INFO - 结果0.00% (0)
+2019-02-28 20:59:03,441 - BrowserEngine - INFO - New,Close and quit the browser
